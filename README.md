@@ -34,9 +34,9 @@ src/main/resources/
 ./mvnw spring-boot:run        # Windows: .\mvnw spring-boot:run
 ```
 
-- http://localhost:8080/proyecto
-- http://localhost:8080/detalles_info2
-- http://localhost:8080/detalles_info
+- http://localhost:8082/proyecto
+- http://localhost:8082/detalles_info2
+- http://localhost:8082/detalles_info
 
 ## Generar el .jar
 
